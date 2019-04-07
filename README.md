@@ -99,8 +99,8 @@ Now let's move on to our `Doctor`/`Appointment`/`Patient` domain model.
 - The `Patient` class needs an instance method, `#appointments`, that iterates
   through the `Appointment`s array and returns `Appointment`s that belong to the
   patient. -->
-- The `Patient` class needs an instance method, `#doctors`, that iterates over
+<!-- - The `Patient` class needs an instance method, `#doctors`, that iterates over
   that patient's `Appointment`s and collects the doctor that belongs to each
-  `Appointment`.
+  `Appointment`. -->
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/ruby-objects-has-many-through-lab'>Has Many Objects Through Lab</a> on Learn.co and start learning to code for free.</p>
